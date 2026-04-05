@@ -1,0 +1,3 @@
+[submodule "firmware/components/sh1106"]
+	path = firmware/components/sh1106
+	url = https://github.com/Quolfe/sh1106-driver.git
